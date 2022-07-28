@@ -15,7 +15,28 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="test.cpp">
+    <ClCompile Include="ssearch1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ssearch2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ssearch_sen.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="bin_search.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="bsearch1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="bsearch2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="kuku.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="bsearch3.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
