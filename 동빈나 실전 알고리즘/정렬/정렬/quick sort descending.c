@@ -17,11 +17,11 @@ void quickSort(int* data, int start, int end)
 
 	while (i <= j)	//엇갈릴때 까지
 	{
-		while (data[i] >= data[key])	//피벗보다 큰값을 만날때 까지
+		while (data[i] >= data[key])	//피벗보다 작은값을 만날때 까지
 		{
 			i++;
 		}
-		while (data[j] <= data[key] && j > start)	//피벗보다 작은값을 만날때 까지
+		while (data[j] <= data[key] && j > start)	//피벗보다 큰값을 만날때 까지
 		{
 			j--;
 		}
