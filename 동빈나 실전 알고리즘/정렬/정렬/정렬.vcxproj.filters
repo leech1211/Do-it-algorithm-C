@@ -24,5 +24,8 @@
     <ClCompile Include="insert sort.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="quick sort.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
